@@ -21,6 +21,7 @@ Current issues:
 - 2 different threads must not call file read/write functions together
 - Pull-up needed on MISO for some cards to operate
 _______________________________________________________________________
+
 LICENSE for the software:
 
 This program is free software: you can redistribute it and/or modify
